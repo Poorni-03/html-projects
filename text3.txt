@@ -1,6 +1,0 @@
-in git first we need to create the file and track the file 
-to track the file we use "git add"
-to stage it we use "git commit -m "comment to be provided""
-to push into git web browser we use "git push origin main"
-origin -> html-projects
-main -> branch
